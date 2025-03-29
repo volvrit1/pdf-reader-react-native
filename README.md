@@ -1,0 +1,1 @@
+# pdf-reader-react-native
